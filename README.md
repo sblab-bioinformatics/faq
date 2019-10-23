@@ -2,7 +2,7 @@
   - [Observed DNA G-quadruplex sequences in the human genome](README.md#observed-dna-g-quadruplex-sequences-in-the-human-genome)
   - [Observed DNA G-quadruplex sequences in multiple species](README.md#observed-dna-g-quadruplex-sequences-in-multiple-species)
   - [Observed RNA G-quadruplex sequences in the human transcriptome](README.md#observed-rna-g-quadruplex-sequences-in-the-human-transcriptome)
-  - [Which DNA G-quadruplex dataset was used to train the software Quadron](README.md#observed-dna-g-quadruplex-sequences-in-the-human-genome)
+  - [Which DNA G-quadruplex dataset was used to train the software Quadron?](README.md#observed-dna-g-quadruplex-sequences-in-the-human-genome)
 
 - **Modified bases**:
   - [Genome-wide mapping of 5hmU and base J in Leishmania](README.md#genome-wide-mapping-of-5hmu-and-base-j-in-Leishmania)
