@@ -26,7 +26,9 @@ The formatting of these files is:
 
 You can use [bedtools](https://bedtools.readthedocs.io/en/latest/) if you'd like to merge the two files above using the following command:
 
+```
 bedtools merge -i <(zcat GSE63874_Na_K_* | bedtools sort -i) > GSE63874_Na_K.bed
+```
 
 These files and others are publicly available to download from GEO in the following link:
 
