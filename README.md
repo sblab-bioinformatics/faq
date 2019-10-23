@@ -1,4 +1,4 @@
-Here are answers to frequently asked questions about resources from the group:
+Here are answers to frequently asked questions about resources generated in the Balasubramanian group:
 
 - **G-quadruplexes**:
   - [Observed DNA G-quadruplex sequences in the human genome](README.md#observed-dna-g-quadruplex-sequences-in-the-human-genome)
