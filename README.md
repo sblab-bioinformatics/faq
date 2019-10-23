@@ -1,5 +1,3 @@
-Here are answers to frequently asked questions about datasets generated in the Balasubramanian group:
-
 - **G-quadruplexes**:
   - [Observed DNA G-quadruplex sequences in the human genome](README.md#observed-dna-g-quadruplex-sequences-in-the-human-genome)
   - [Observed DNA G-quadruplex sequences in multiple species](README.md#observed-dna-g-quadruplex-sequences-in-multiple-species)
