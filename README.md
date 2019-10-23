@@ -1,14 +1,15 @@
 Here are answers to frequently asked questions about resources from the group:
 
 - **G-quadruplexes**:
-  - [Observed G-quadruplex sequences in the human genome](README.md#observed-g-quadruplex-sequences-in-the-human-genome)
-  - [Observed G-quadruplex sequences in multiple species](README.md#observed-g-quadruplex-sequences-in-multiple-species)
-  - [Which G-quadruplex dataset was used to train the software Quadron](README.md#observed-g-quadruplex-sequences-in-the-human-genome)
+  - [Observed DNA G-quadruplex sequences in the human genome](README.md#observed-dna-g-quadruplex-sequences-in-the-human-genome)
+  - [Observed DNA G-quadruplex sequences in multiple species](README.md#observed-dna-g-quadruplex-sequences-in-multiple-species)
+  - [Observed RNA G-quadruplex sequences in the human genome](README.md#observed-rna-g-quadruplex-sequences-in-the-human-genome)
+  - [Which DNA G-quadruplex dataset was used to train the software Quadron](README.md#observed-dna-g-quadruplex-sequences-in-the-human-genome)
 
 - **Modified bases**:
 
 
-## Observed G-quadruplex sequences in the human genome
+## Observed DNA G-quadruplex sequences in the human genome
 
 The G-quadruplex annotation of the human genome as presented in [Chambers et *al.*, 2015](https://www.nature.com/articles/nbt.3295) is available in GEO [GSE63874](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63874) - see Supplementary files.
 
@@ -49,7 +50,7 @@ The formatting of these files is:
 
 
 
-## Observed G-quadruplex sequences in multiple species
+## Observed DNA G-quadruplex sequences in multiple species
 
 The G-quadruplex annotation in multiple as presented in [Marsico et *al.*, 2019](https://academic.oup.com/nar/article/47/8/3862/5403498) is available in GEO [GSE110582](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE110582).
 
@@ -59,3 +60,7 @@ Go to the Samples section and find your species of interest and the condition us
 - 2nd column: start of the observed G-quadruplex
 - 3rd column: end of the observed G-quadruplex
 - 4th column: score
+
+
+## Observed RNA G-quadruplex sequences in the human genome
+
