@@ -1,6 +1,7 @@
 Here are answers to frequently asked questions about resources from the group:
 
 - G-quadruplexes:
+  - [Observed G-quadruplex sequences](README.md#observed-g-quadruplex-sequences)
 
 - Modified bases:
 
