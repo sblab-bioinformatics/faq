@@ -7,6 +7,7 @@
 - **Modified bases**:
   - [Genome-wide mapping of 5hmU and base J in Leishmania](README.md#genome-wide-mapping-of-5hmu-and-base-j-in-Leishmania)
 
+---
 
 ## Observed DNA G-quadruplex sequences in the human genome
 
