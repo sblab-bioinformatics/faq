@@ -1,14 +1,14 @@
 Here are answers to frequently asked questions about resources from the group:
 
-- G-quadruplexes:
+- **G-quadruplexes**:
   - [Observed G-quadruplex sequences in the human genome](README.md#observed-g-quadruplex-sequences-in-the-human-genome)
 
-- Modified bases:
+- **Modified bases**:
 
 
 ## Observed G-quadruplex sequences in the human genome
 
-The G-quadruplex annotation of the human genome as presented in [Chambers et **al.**, 2015](https://www.nature.com/articles/nbt.3295) is available in GEO [GSE63874](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63874) - see Supplementary files.
+The G-quadruplex annotation of the human genome as presented in [Chambers et *al.*, 2015](https://www.nature.com/articles/nbt.3295) is available in GEO [GSE63874](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63874) - see Supplementary files.
 
 The files to use are the observed G-quadruplex sequences in common to the 2 K+ experiments as detected on the forward and reverse strands respectively with coordinates from the human hg19 reference genome:
 
