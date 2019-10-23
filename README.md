@@ -1,3 +1,5 @@
+Here are answers to frequently asked questions about resources from the group:
+
 - G-quadruplexes:
 
 - Modified bases:
